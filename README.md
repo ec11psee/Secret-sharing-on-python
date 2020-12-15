@@ -16,3 +16,5 @@ pip install PyQt5
 pip install numpy
 
 pip install sympy
+
+Для открытия программы запустите SecretSharing.py
